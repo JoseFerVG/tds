@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/C:/Users/josef/Desktop/JF/Universidad/Tercero/1er%20Cuatri/Tecnologías%20de%20Desarrollo%20de%20Software/Prácticas/Proyecto/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
